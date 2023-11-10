@@ -9,7 +9,7 @@ Make sure you have Python installed on your system. You can download it at pytho
   
 ### Clone the Repository:
 
-`git clone https://https://github.com/GuilhermeButzke/BannerGrabbing.git`  
+`git clone https://github.com/GuilhermeButzke/BannerGrabbing.git`  
   
 `cd banner-grabbing-python`  
   
