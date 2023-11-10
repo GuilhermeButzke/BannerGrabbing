@@ -11,7 +11,7 @@ Make sure you have Python installed on your system. You can download it at pytho
 
 `git clone https://github.com/GuilhermeButzke/BannerGrabbing.git`  
   
-`cd banner-grabbing-python`  
+`cd BannerGrabbing`  
   
 ### Run the Script:
 
@@ -26,8 +26,8 @@ The script will attempt to connect to the service and display the response banne
 - ### Responsible Usage:  
 This script is intended for educational and testing purposes. Do not use it to explore servers or services without permission.
   
-- ### Updates:
+- ### Updates:  
 Check this repository regularly for updates. Vulnerabilities and security updates may be addressed in later versions.
   
-- ### Contributions:
+- ### Contributions:  
 Feel free to contribute improvements or bug fixes through pull requests.
